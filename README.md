@@ -8,6 +8,9 @@
 * [fast.ai book repo](https://github.com/fastai/fastbook) (for information on the library and the theory behind it)
 * [fastai publication](https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/) (to get an overview of the fastai library design and the ideas behind it)
 
+## Installation guide for Google Colab training
+* [11 Steps to Train on Google Colab](https://github.com/seduerr91/fastAI_v4/blob/master/fastai2%20on%20colab.md)
+
 ## Forum
 * [Study Group in Austria (open thread)](https://forums.fast.ai/t/study-group-in-austria/26119/10)
 
